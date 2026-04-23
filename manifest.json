@@ -1,6 +1,14 @@
- {
-    "version": "0.7.12",
-    "downloadUrl": "",
-    "checksum": "",
-    "images": []
-  }
+{
+  "version": "0.7.12",
+  "downloads": {
+    "windows": "https://github.com/Yuvallll4/MHR_Launcher/releases/download/v0.7.12/game-windows.zip",
+    "macos":   "https://github.com/Yuvallll4/MHR_Launcher/releases/download/v0.7.12/game-macos.zip",
+    "linux":   "https://github.com/Yuvallll4/MHR_Launcher/releases/download/v0.7.12/game-linux.zip"
+  },
+  "checksum": "",
+  "images": [
+    "https://raw.githubusercontent.com/Yuvallll4/MHR_Launcher/main/ImagesNews/1.jpg",
+    "https://raw.githubusercontent.com/Yuvallll4/MHR_Launcher/main/ImagesNews/2.jpg",
+    "https://raw.githubusercontent.com/Yuvallll4/MHR_Launcher/main/ImagesNews/3.jpg"
+  ]
+}
